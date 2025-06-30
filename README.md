@@ -1,5 +1,5 @@
 # 2025. 1st semester
-KNU ROSS0705 (Mathematics for Robotics) homework 1.
+KyungPook National University ROSS0705 (Mathematics for Robotics) homework 1.
 
 ## problem 02.
 <br>

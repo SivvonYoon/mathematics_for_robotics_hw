@@ -1,3 +1,6 @@
+# 2025. 1st semester (march to june)
+KNU ROSS0705 (Mathematics for Robotics) homework 1.
+
 ## problem 02.
 <br>
 
